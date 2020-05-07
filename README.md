@@ -10,6 +10,8 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 👉 Upload as file from any HTTP link
 
 ### Installation
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nitishjeet07/TG-URL-Uploader)
+
 
 #### The Easiest Way
 
